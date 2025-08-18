@@ -1,2 +1,0 @@
-# vectorcmdr.github.io
-Portfolio
